@@ -1,0 +1,6 @@
+apiVersion: 0.0.1
+kind: ksonnet.io/parts
+name: example
+description: An example of a ksonnet registry
+author: ksonnet authors
+license: Apache 2.0
